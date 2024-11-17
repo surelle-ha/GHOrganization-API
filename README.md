@@ -11,7 +11,7 @@
 </a>
 
 
-<img align="right" width=200px alt="Unicorn" src="https://cdn3d.iconscout.com/3d/free/thumb/free-nestjs-3d-icon-download-in-png-blend-fbx-gltf-file-formats--javascript-typescript-node-js-server-side-coding-lang-pack-logos-icons-7578005.png"/>
+<img align="left" width=200px alt="Unicorn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png"/>
 
 GHOM is a NestJS package designed to enhance your NestJS projects by providing organization management features. It integrates seamlessly with the GitHub API that enables efficient management of organizations.
 
